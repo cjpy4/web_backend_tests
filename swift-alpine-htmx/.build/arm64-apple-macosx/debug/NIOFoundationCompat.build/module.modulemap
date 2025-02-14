@@ -1,0 +1,4 @@
+module NIOFoundationCompat {
+    header "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/NIOFoundationCompat-Swift.h"
+    requires objc
+}

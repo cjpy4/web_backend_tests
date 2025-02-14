@@ -1,0 +1,4 @@
+module HashTreeCollections {
+    header "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/HashTreeCollections.build/HashTreeCollections-Swift.h"
+    requires objc
+}

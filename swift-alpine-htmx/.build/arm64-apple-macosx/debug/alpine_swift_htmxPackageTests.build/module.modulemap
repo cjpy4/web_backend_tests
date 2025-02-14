@@ -1,0 +1,4 @@
+module alpine_swift_htmxPackageTests {
+    header "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/alpine_swift_htmxPackageTests.build/alpine-swift-htmxPackageTests-Swift.h"
+    requires objc
+}

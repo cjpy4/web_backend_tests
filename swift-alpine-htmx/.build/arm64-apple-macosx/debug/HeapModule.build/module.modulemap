@@ -1,0 +1,4 @@
+module HeapModule {
+    header "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/HeapModule.build/HeapModule-Swift.h"
+    requires objc
+}

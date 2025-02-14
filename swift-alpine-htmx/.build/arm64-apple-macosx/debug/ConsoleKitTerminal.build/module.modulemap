@@ -1,0 +1,4 @@
+module ConsoleKitTerminal {
+    header "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/ConsoleKitTerminal.build/ConsoleKitTerminal-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module CAsyncHTTPClient {
+    umbrella header "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/checkouts/async-http-client/Sources/CAsyncHTTPClient/include/CAsyncHTTPClient.h"
+    export *
+}

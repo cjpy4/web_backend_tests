@@ -1,0 +1,4 @@
+module RealModule {
+    header "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/RealModule.build/RealModule-Swift.h"
+    requires objc
+}

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/cjpye/Code/Projects/alpine_todo/alpine-swift-htmx/.build/arm64-apple-macosx/debug/AppTests.build/master.swiftdeps"
+  },
+  "/Users/cjpye/Code/Projects/alpine_todo/alpine-swift-htmx/Tests/AppTests/AppTests.swift": {
+    "dependencies": "/Users/cjpye/Code/Projects/alpine_todo/alpine-swift-htmx/.build/arm64-apple-macosx/debug/AppTests.build/AppTests.d",
+    "object": "/Users/cjpye/Code/Projects/alpine_todo/alpine-swift-htmx/.build/arm64-apple-macosx/debug/AppTests.build/AppTests.swift.o",
+    "swiftmodule": "/Users/cjpye/Code/Projects/alpine_todo/alpine-swift-htmx/.build/arm64-apple-macosx/debug/AppTests.build/AppTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/cjpye/Code/Projects/alpine_todo/alpine-swift-htmx/.build/arm64-apple-macosx/debug/AppTests.build/AppTests.swiftdeps"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/master.swiftdeps"
+  },
+  "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/Sources/App/Controllers/TodoController.swift": {
+    "dependencies": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/TodoController.d",
+    "object": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/TodoController.swift.o",
+    "swiftmodule": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/TodoController~partial.swiftmodule",
+    "swift-dependencies": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/TodoController.swiftdeps"
+  },
+  "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/Sources/App/Models/Todo.swift": {
+    "dependencies": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/Todo.d",
+    "object": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/Todo.swift.o",
+    "swiftmodule": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/Todo~partial.swiftmodule",
+    "swift-dependencies": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/Todo.swiftdeps"
+  },
+  "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/Sources/App/configure.swift": {
+    "dependencies": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/configure.d",
+    "object": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/Sources/App/entrypoint.swift": {
+    "dependencies": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/entrypoint.d",
+    "object": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/entrypoint.swift.o",
+    "swiftmodule": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/entrypoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/entrypoint.swiftdeps"
+  },
+  "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/Sources/App/routes.swift": {
+    "dependencies": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/routes.d",
+    "object": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/App.build/routes.swiftdeps"
+  }
+}

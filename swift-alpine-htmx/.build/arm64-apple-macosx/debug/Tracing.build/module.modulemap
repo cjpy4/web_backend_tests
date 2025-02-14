@@ -1,0 +1,4 @@
+module Tracing {
+    header "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/Tracing.build/Tracing-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module InstrumentationBaggage {
+    header "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/InstrumentationBaggage.build/InstrumentationBaggage-Swift.h"
+    requires objc
+}

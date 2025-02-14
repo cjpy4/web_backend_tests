@@ -1,0 +1,4 @@
+module MultipartKit {
+    header "/Users/cjpye/Code/Projects/alpine_todo/swift-alpine-htmx/.build/arm64-apple-macosx/debug/MultipartKit.build/MultipartKit-Swift.h"
+    requires objc
+}
